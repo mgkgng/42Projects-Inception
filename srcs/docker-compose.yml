@@ -1,0 +1,14 @@
+version: '3'
+service:
+  nginx:
+    image: nginx
+    ports:
+    environment:
+  mariadb:
+    image:
+    ports:
+    environment:
+  wordpress:
+    image:
+    ports:
+    environment:
